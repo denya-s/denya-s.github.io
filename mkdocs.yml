@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Juan's Lost Blog
+nav:
+  - Home: index.md
+  - About: about.md
