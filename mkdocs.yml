@@ -1,4 +1,5 @@
-site_name: Juan's Lost Blog
+site_name: Denya's Lost Blog
 nav:
   - Home: index.md
   - About: about.md
+theme: readthedocs
