@@ -2,8 +2,7 @@ site_name: Denya's Lost Blog
 nav:
   - Home: index.md
   - About: about.md
-theme:
-  name: simple-blog
+theme: simple-blog
 docs_dir: not_site
 site_dir: docs
 
