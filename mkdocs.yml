@@ -3,5 +3,5 @@ nav:
   - Home: index.md
   - About: about.md
 theme:
-  name: bootstrap386
+  name: simple-blog
 
