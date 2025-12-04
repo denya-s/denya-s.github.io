@@ -1,8 +1,20 @@
 site_name: Denya's Lost Blog
 nav:
-  - Home: index.md
+  - Homepage: index.md
   - About: about.md
-theme: simple-blog
+  - Blog:
+      - 'blog/New publications.md'
+  - Write-ups:
+      - write-ups/write-ups.md
+      - CTFs:
+        - pwnable.kr:
+          - write-ups/ctfs/pwnable.kr/fd.md
+  - Achievements: achievements.md
+  - Resources: resources.md
+  - Contact: contact-me.md
+theme: 
+  name: simple-blog
+  logo: img/favicon.ico
+  favicon: img/favicon.ico
 docs_dir: not_site
 site_dir: docs
-
