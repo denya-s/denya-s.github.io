@@ -4,4 +4,6 @@ nav:
   - About: about.md
 theme:
   name: simple-blog
+docs_dir: not_site
+site_dir: docs
 
